@@ -14,8 +14,10 @@ author: Ryan Feng
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "blog"
+  Cool Links: "cool"
+  About This Site: "about_site"
   About Me: "aboutme"
-  Home: "https://rzfeng.xyz"
 
 # --- Logo --- #
 
