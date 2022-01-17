@@ -3,8 +3,6 @@ layout: page
 title: About Me
 ---
 
-![Me](/assets/img/me2.jpg)
-
 Welcome to my little corner of the internet! I'm Ryan Feng, a master's student in the [University of Michigan Robotics Institute](https://robotics.umich.edu/). My primary interests lie in motion planning, both for mobile robots and robotic manipulation tasks.
 
 Outside of school, I'm a huge fan of NBA basketball and professional soccer, an avid runner, and a (semi-retired) member of the [Michigan Mars Rover Team](https://mrover.org/). Right now, I am...
