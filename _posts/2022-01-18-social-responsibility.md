@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On the Social Responsibility of Business
+subtitle: And why it is our responsibility to decide
 tags: [ethics, society]
 comments: true
 ---
@@ -30,7 +31,7 @@ SuperDuperSketchyCorp (SDSC) and SuperDuperEthicalCorp (SDEC) both make children
 
 SDEC only sources raw materials in ways that minimize their environmental impact. They provide living wages and reasonable benefits packages for their employees. However, their toys must be priced at $20 per toy to support their noble pursuit of ethical behavior.
 
-Meanwhile, SDSC operates SuperDuperSketchyMines(TM) which cause immense environmental damage. The raw materials are then transported to SuperDuperSketchyFactories(TM), where low-paid child laborers work in dangerous conditions. By cutting all these corners, SDSC is able to sell their toys at $10.
+Meanwhile, SDSC operates SuperDuperSketchyMines which cause immense environmental damage. The raw materials are then transported to SuperDuperSketchyFactories, where low-paid child laborers work in dangerous conditions. By cutting all these corners, SDSC is able to sell their toys at $10.
 
 If the consumer base acts purely in self-interest, SDSC will attract more customers by far. As such, SDEC is forced to either adopt some of SDSC's practices to cut costs or go out of business. Here, we see that following Friedman's strategy will clearly lead to better outcomes for the business (though perhaps not the society), and over time, this strategy will become dominant.
 
