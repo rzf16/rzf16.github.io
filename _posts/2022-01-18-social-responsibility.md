@@ -1,7 +1,6 @@
 ---
 layout: post
 title: On the Social Responsibility of Business
-subtitle: And our role in it
 tags: [ethics, society]
 comments: true
 ---
