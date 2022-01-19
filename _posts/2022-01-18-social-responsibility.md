@@ -1,12 +1,12 @@
 ---
 layout: post
 title: On the Social Responsibility of Business
-subtitle: And why it is our responsibility to decide
+subtitle: Why the people have the power
 tags: [ethics, society]
 comments: true
 ---
 
-In 1970, Nobel prize-winning economise Milton Friedman published one of his most influential articles, [A Friedman Doctrine: The Social Responsibility of Business is to Increase Its Profits](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html). This article was part of a larger trend in the early 1970s that saw the social responsibility of businesses erode in favor of profit. Although I haven't yet read the book myself, I've been recommended [Evil Geniuses: The Unmaking of America](https://www.amazon.com/Evil-Geniuses-Unmaking-America-History/dp/1984801341) for a detailed discussion on the topic.
+In 1970, Nobel prize-winning economist Milton Friedman published one of his most influential articles, [A Friedman Doctrine: The Social Responsibility of Business is to Increase Its Profits](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html). This article was part of a larger trend in the early 1970s that saw the social responsibility of businesses erode in favor of profit. Although I haven't yet read the book myself, I've been recommended [Evil Geniuses: The Unmaking of America](https://www.amazon.com/Evil-Geniuses-Unmaking-America-History/dp/1984801341) for a detailed discussion on the topic.
 
 Under this framework, ethical behavior becomes a secondary goal for business. Companies can exploit child labor in third-world countries, pay workers barely-living wages to toil away in dangerous conditions, or pollute the environment as they require (or sometimes, [all in one](https://www.theguardian.com/global-development/2019/dec/18/how-the-race-for-cobalt-risks-turning-it-from-miracle-metal-to-deadly-chemical)), all in the name of profit.
 
@@ -41,4 +41,4 @@ However, if the consumer base is willing to punish, the story is very different.
 Of course, a problem arises when the consumer is unaware of SDSC's behavior. In this case, even if the consumer is willing to punish, SDSC still attracts the majority of customers simply due to ignorance. This is absolutely **not** the fault of the consumer - everyday people living busy lives cannot be expected to perform extensive research on each company they buy from. This is the critical role of media: consumers need accurate, accessible, and easily understandable information to decide on accepting or rejecting the proposals made by businesses.
 
 ## The Line in the Sand
-Knowing that we have this power, the natural question is when we should use it. At what point does the unethical behavior of a company outweigh the value it provides in the form of its products and technological advances? This is something that will vary heavily from person to person depending on their own moral compass. I do not feel comfortable telling anyone what their ethics should be, especially when I am by no means a perfectly ethical being. In fact, nobody is. But as long as we know the power we have as responders, we can always band together to draw a line in the sand, whenever it may be necessary.
+Knowing that we have this power, the natural question is when we should use it. At what point does the unethical behavior of a company outweigh the value it provides in the form of its products? This is something that will vary heavily from person to person depending on their own moral compass. I do not feel comfortable telling anyone what their ethics should be, especially when I am by no means a perfectly ethical being. In fact, nobody is. But as long as we know the power we have as responders, we can always band together to draw a line in the sand, whenever it may be necessary.
