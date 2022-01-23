@@ -1,5 +1,5 @@
 ---
-layout: wide_page
+layout: page
 title: "Quotes I Love"
 subtitle: "And try to live by"
 ---
