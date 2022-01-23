@@ -1,6 +1,7 @@
 ---
 layout: wide_page
 title: Quotes I Love
+subtitle: And try to live by
 ---
 
 *"Talent sets the floor, character sets the ceiling."* - Bill Belichick
