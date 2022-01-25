@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Social Responsibility of Business
-subtitle: Why the people have the power
+subtitle: Why the people still have power
 tags: [ethics, society]
 comments: true
 ---
