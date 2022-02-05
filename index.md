@@ -19,3 +19,8 @@ cover-img:
   - "/assets/img/home/yellowstone2017_1.jpeg" : "Yellowstone National Park, Wyoming, USA, 2017"
   
 ---
+
+## Updates
+- **02/02/2022:** Accepted a summer internship with the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/)!
+
+- **01/05/2022:** Started my master's program in the [University of Michigan Robotics Institute](https://robotics.umich.edu/)!
