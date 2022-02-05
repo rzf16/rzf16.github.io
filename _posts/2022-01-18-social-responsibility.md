@@ -2,11 +2,11 @@
 layout: post
 title: On the Social Responsibility of Business
 subtitle: Why the people still have power
-tags: [ethics, society]
+tags: [thinking]
 comments: true
 ---
 
-In 1970, Nobel prize-winning economist Milton Friedman published one of his most influential articles, [A Friedman Doctrine: The Social Responsibility of Business is to Increase Its Profits](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html). This article was part of a larger trend in the early 1970s that saw the social responsibility of businesses erode in favor of profit. Although I haven't yet read the book myself, I've been recommended [Evil Geniuses: The Unmaking of America](https://www.amazon.com/Evil-Geniuses-Unmaking-America-History/dp/1984801341) for a detailed discussion on the topic.
+In 1970, Nobel prize-winning economist Milton Friedman published one of his most influential articles, [A Friedman Doctrine: The Social Responsibility of Business is to Increase Its Profits](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html). This article was part of a larger trend in the early 1970s that saw the social responsibility of businesses erode in favor of profit. I've been recommended [Evil Geniuses: The Unmaking of America](https://www.amazon.com/Evil-Geniuses-Unmaking-America-History/dp/1984801341) for a detailed discussion on the topic, though I haven't yet read it myself.
 
 Under this framework, ethical behavior becomes a secondary goal for business. Companies can exploit child labor in third-world countries, pay workers barely-living wages to toil away in dangerous conditions, or pollute the environment as they require (or sometimes, [all in one](https://www.theguardian.com/global-development/2019/dec/18/how-the-race-for-cobalt-risks-turning-it-from-miracle-metal-to-deadly-chemical)), all in the name of profit.
 
@@ -35,7 +35,7 @@ Meanwhile, SDSC operates SuperDuperSketchyMines which cause immense environmenta
 
 If the consumer base acts purely in self-interest, SDSC will attract more customers by far. As such, SDEC is forced to either adopt some of SDSC's practices to cut costs or go out of business. Here, we see that following Friedman's strategy will clearly lead to better outcomes for the business (though perhaps not the society), and over time, this strategy will become dominant.
 
-However, if the consumer base is willing to punish, the story is very different. Consumers can decide collectively that the value proposition made by SDSC is unethical and instead purchase from SDEC. SDSC then faces the same choice as SDEC in the previous scenario: either change its practices or go out of businesses.
+However, if the consumer base is willing to punish, the story is very different. Consumers can decide collectively that the value proposition made by SDSC is unjust and instead purchase from SDEC. SDSC then faces the same choice as SDEC in the previous scenario: either change its practices or go out of businesses.
 
 ## The Role of Media
 Of course, a problem arises when the consumer is unaware of SDSC's behavior. In this case, even if the consumer is willing to punish, SDSC still attracts the majority of customers simply due to ignorance. This is absolutely **not** the fault of the consumer - everyday people living busy lives cannot be expected to perform extensive research on each company they buy from. This is the critical role of media: consumers need accurate, accessible, and easily understandable information to decide on accepting or rejecting the proposals made by businesses.
