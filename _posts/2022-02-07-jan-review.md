@@ -16,14 +16,15 @@ I've been able to reserve at least one day on each weekend as no-school days. It
 | :--: |
 | First attempt at sesame balls (ignore the burnt ones) |
 
+
 | ![Sesame Balls](/assets/img/blog/2022-02-07-jan-review/belle_isle.jpeg) |
 | :--: |
 | Visiting Belle Isle with the roomies! |
 
 ## School
-Grad school is awesome! First off, everyone I've met and worked with has been great - friendly, smart, and collaborative. In terms of coursework, for the first time in my college career, I feel like every single one of my classes are both extremely interesting and extremely useful. With substantially smaller class sizes, the professors also are much more accessible to students. Finally, I'm excited that all of my courses are project-based; I've held the belief for a while now that project-based learning leads to signficantly better student engagement and long-horizon knowledge retention compared to exam-based systems. Plus, they're a lot more fun :smile:.
+Grad school is awesome! First off, everyone I've met and worked with has been great - friendly, smart, and collaborative. In terms of coursework, for the first time in my college career, I feel like every single one of my classes are both extremely interesting and extremely useful. With substantially smaller class sizes, the professors also are much more accessible to students. Finally, I'm excited that all of my courses are project-based; I've held the belief for a while now that project-based learning leads to significantly better student engagement and long-horizon knowledge retention compared to exam-based systems. Plus, they're a lot more fun :smile:.
 
 ## Career
-The job search went amazing this year! I started looking in early January and applied to a dozen or so internships. This year, I was really gunning for the NASA Jet Propulsion Lab. JPL embodies exactly what I want in a job right now: doing meaningful, technically challenging, and "cool" work alongside extremely passionate people. I was fortunate enough to interview for two positions there and receive offers for both! I ended up accepting an offer working on motion planning for autonomous sampling - a near-perfect fit for my interests. Needless to say, I'm absolutely thrilled and can't wait for the summer!
+The job search went amazing this year! I started looking in early January and applied to a dozen or so internships. This year, I was really gunning for the NASA Jet Propulsion Lab. JPL embodies exactly what I want in a job right now: doing meaningful, technically challenging, and "cool" work alongside extremely passionate people. I was fortunate enough to interview and receive offers for two positions there! I ended up accepting an offer working on motion planning for autonomous sampling - a near-perfect fit for my interests. Needless to say, I'm absolutely thrilled and can't wait for the summer!
 
 When I initially applied, I didn't think I had a shot. My previous research and industry experience wasn't very well-aligned with my current interests, my prior internship wasn't very presitigous, and I hadn't even received interviews from them the past two years. Don't let your own insecurities stop you from pursuing your goals - we will always be our own worst critics.
