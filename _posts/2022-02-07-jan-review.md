@@ -14,7 +14,7 @@ I've been able to reserve at least one day on each weekend as no-school days. It
 
 | ![Sesame Balls](/assets/img/blog/2022-02-07-jan-review/sesame_balls.jpeg) | ![Belle Isle](/assets/img/blog/2022-02-07-jan-review/belle_isle.jpeg) |
 | - | - |
-| First attempt at sesame balls (ignore the burnt ones) | Visiting Belle Isle with the roomies! |
+| First attempt at sesame balls<br />(ignore the burnt ones) | Visiting Belle Isle with the roomies! |
 
 ## School
 Grad school is awesome! First off, everyone I've met and worked with has been great - friendly, smart, and collaborative. In terms of coursework, for the first time in my college career, I feel like every single one of my classes are both extremely interesting and extremely useful. With substantially smaller class sizes, the professors also are much more accessible to students. Finally, I'm excited that all of my courses are project-based; I've held the belief for a while now that project-based learning leads to significantly better student engagement and long-horizon knowledge retention compared to exam-based systems. Plus, they're a lot more fun :smile:.
