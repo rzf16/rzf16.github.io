@@ -12,14 +12,9 @@ I was running pretty consistently (3-5 mile runs every 3 days) until Ann Arbor r
 
 I've been able to reserve at least one day on each weekend as no-school days. It's been really good for me so far - taking a break both helps me focus better for the rest of the week and gives me some time for other things, whether that is trying out a new hobby, making educational talks for MRover, or working on this website.
 
-| ![Sesame Balls](/assets/img/blog/2022-02-07-jan-review/sesame_balls.jpeg) |
-| :--: |
-| First attempt at sesame balls (ignore the burnt ones) |
-
-
-| ![Sesame Balls](/assets/img/blog/2022-02-07-jan-review/belle_isle.jpeg) |
-| :--: |
-| Visiting Belle Isle with the roomies! |
+| ![Sesame Balls](/assets/img/blog/2022-02-07-jan-review/sesame_balls.jpeg) | ![Belle Isle](/assets/img/blog/2022-02-07-jan-review/belle_isle.jpeg) |
+| - | - |
+| First attempt at sesame balls (ignore the burnt ones) | Visiting Belle Isle with the roomies! |
 
 ## School
 Grad school is awesome! First off, everyone I've met and worked with has been great - friendly, smart, and collaborative. In terms of coursework, for the first time in my college career, I feel like every single one of my classes are both extremely interesting and extremely useful. With substantially smaller class sizes, the professors also are much more accessible to students. Finally, I'm excited that all of my courses are project-based; I've held the belief for a while now that project-based learning leads to significantly better student engagement and long-horizon knowledge retention compared to exam-based systems. Plus, they're a lot more fun :smile:.
